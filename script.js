@@ -22,7 +22,7 @@ function clickButton() {
             count++;    
             break;
         case 5:
-            window.open('https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley');
+            window.open('https://www.youtube.com/watch?v=xvFZjo5PgG0');
             count++;
             break;
         case 6:
